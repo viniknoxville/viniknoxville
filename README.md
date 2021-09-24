@@ -1,10 +1,11 @@
 ## Oi, eu sou o Marco 🖖
 
 
-- 📚 Estudande de Analise e Desenvolvimento de Sistemas 
-- 🌱 Estudando: Java
+- 📚 Estudante de Analise e Desenvolvimento de Sistemas 
+- 💡 Estou aprendendo um novo idioma 
 - 😄 Pronouns: ele / dele
-- ⚡ Fun fact: Sou um aficionado por tecnologia e cultura pop em geral
+- ⚡ Fun fact: Tenho uma gata chamada Stella
+
 
 <div align="center">
   <a href="https://github.com/viniknoxville">
