@@ -13,7 +13,7 @@
 </div>
   
  <div style="display: inline_block"><br>
-  <img align="center" alt="Vini-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="Vini-Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/890781711967850549/890791029408665660/0001-1487318144_20210518_012846_0000.png">
 </div> 
   
