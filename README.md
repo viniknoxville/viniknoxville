@@ -1,4 +1,4 @@
-## Oi, eu sou o Marcos 👋
+## Oi, eu sou o Marco 🖖
 
 
 - 📚 Estudande de Analise e Desenvolvimento de Sistemas 
