@@ -19,6 +19,7 @@
 <div align="center">
 <img class="n3VNCb" style="width: 309px; height: 309px; margin: 0px;" src="https://i.pinimg.com/originals/e5/93/ab/e593ab0589d5f1b389e4dfbcce2bce20.gif" alt="Transparent Stuff | Adventure time gif, Cartoon gifs, Adventure time  wallpaper" data-noaft="1" />
 </div>
+<div align="center">&nbsp;</div>
 
 <div align="center">
 <a href="https://www.linkedin.com/in/marcosvsribeiro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" width="95" height="24" /> </a> 
