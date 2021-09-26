@@ -1,6 +1,6 @@
 ## Olá, eu sou o Marcos Vinicius!
 
-<h5>&nbsp;- 📚 SENAC - 1&ordm; per&iacute;odo do tecn&oacute;logo em Analise e Desenvolvimento de Sistemas (gradua&ccedil;&atilde;o em dezembro de 2023)<br />
+<h5>&nbsp;- 📚 Estudando Analise e Desenvolvimento de Sistemas<br />
 <br />- 💡 Em busca de novos aprendizados | In Search of Learnin<br />
 <br />- 😄 Pronouns: ele/dele | he/him/his<br />
 <br />- ⚡ Fun fact: Tenho uma gata chamada Stella | I have a pet cat named Stella</h5>
@@ -8,6 +8,7 @@
 
 <div align="center">
 <a href="https://github.com/viniknoxville"> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniknoxville&amp;layout=compact&amp;langs_count=7&amp;theme=yeblu" height="180em" />
 <img src="https://github-readme-stats.vercel.app/api?username=viniknoxville&amp;show_icons=true&amp;theme=yeblu&amp;include_all_commits=true&amp;count_private=true" height="180em" /> 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniknoxville&amp;layout=compact&amp;langs_count=7&amp;theme=yeblu" height="180em" /></a></div>
 
