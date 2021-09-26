@@ -1,7 +1,7 @@
 ## Olá, eu sou o Marcos Vinicius!
 
-<h5>&nbsp;- 📚 Estudante Analise e Desenvolvimento de Sistemas<br />
-<br />- 💡 Em busca de novos aprendizados | In Search of Learnin<br />
+<h5>&nbsp;- 💡 Em busca de novos aprendizados | In Search of Learnin<br />
+<br />  - 📚 Cursando Analise e Desenvolvimento de Sistemas<br />
 <br />- 😄 Pronouns: ele/dele | he/him/his<br />
 <br />- ⚡ Fun fact: Tenho uma gata chamada Stella | I have a pet cat named Stella</h5>
 <p>&nbsp;</p>
