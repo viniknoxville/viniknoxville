@@ -17,7 +17,7 @@
 <div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="55" height="55" /></div>
 
 <div align="center">
-<img class="n3VNCb" style="width: 246px; height: 246px; margin: 0px;" src="https://i.pinimg.com/originals/e5/93/ab/e593ab0589d5f1b389e4dfbcce2bce20.gif" alt="Transparent Stuff | Adventure time gif, Cartoon gifs, Adventure time  wallpaper" data-noaft="1" />
+<img class="n3VNCb" style="width: 309px; height: 309px; margin: 0px;" src="https://i.pinimg.com/originals/e5/93/ab/e593ab0589d5f1b389e4dfbcce2bce20.gif" alt="Transparent Stuff | Adventure time gif, Cartoon gifs, Adventure time  wallpaper" data-noaft="1" />
 </div>
 
 <div align="center">
