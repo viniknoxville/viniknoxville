@@ -1,11 +1,5 @@
 ## Olá, eu sou o Marcos Vinicius!
 
-<h5>&nbsp;- 📚 SENAC - 1&ordm; per&iacute;odo do tecn&oacute;logo em Analise e Desenvolvimento de Sistemas (gradua&ccedil;&atilde;o em dezembro de 2023)<br />
-<br />- 💡 Em busca de novos aprendizados | In Search of Learnin<br />
-<br />- 😄 Pronouns: ele/dele | he/him/his<br />
-<br />- ⚡ Fun fact: Tenho uma gata chamada Stella | I have a pet cat named Stella</h5>
-<p>&nbsp;</p>
-
 <div align="center">
 <a href="https://github.com/viniknoxville"> 
 <img src="https://github-readme-stats.vercel.app/api?username=viniknoxville&amp;show_icons=true&amp;theme=yeblu&amp;include_all_commits=true&amp;count_private=true" height="180em" /> 
@@ -17,7 +11,7 @@
 <div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="55" height="55" /></div>
 
 <div align="center">
-<img class="n3VNCb" style="width: 246px; height: 246px; margin: 0px;" src="https://i.pinimg.com/originals/e5/93/ab/e593ab0589d5f1b389e4dfbcce2bce20.gif" alt="Transparent Stuff | Adventure time gif, Cartoon gifs, Adventure time  wallpaper" data-noaft="1" />
+<img class="n3VNCb" style="width: 296px; height: 296px; margin: 0px;" src="https://i.pinimg.com/originals/e5/93/ab/e593ab0589d5f1b389e4dfbcce2bce20.gif" alt="Transparent Stuff | Adventure time gif, Cartoon gifs, Adventure time  wallpaper" data-noaft="1" />
 </div>
 
 <div align="center">
