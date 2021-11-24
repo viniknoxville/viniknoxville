@@ -27,5 +27,7 @@
 <a href="https://open.spotify.com/user/12179617072?si=k1glThkqREOUUwSlY_1wKA&amp;utm_source=copy-link&amp;dl_branch=1" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&amp;style=for-the-badge&amp;logo=spotify&amp;logoColor=white" width="95" height="24" /> </a> 
 <a href="mailto:ass.marcosribeiro@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" width="95" height="24" /></a></div>
 <div align="center">&nbsp;</div>
+
+
    
  
