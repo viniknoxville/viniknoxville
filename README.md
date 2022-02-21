@@ -1,3 +1,22 @@
+### Hi there 👋, my name is Marcos
+![](https://i.ibb.co/v3TYfQp/Hello-DEV.png)
+
+
+Skills: VUE JS / REACT / JS / HTML / CSS
+
+- 🔭 I’m currently working on this page. 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/viniknoxville)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/html5.svg' alt='html5' height='40'>](i)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniknoxville)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=viniknoxville&show_icons=true&count_private=true)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=viniknoxville)  
+
+![Profile views](https://gpvc.arturio.dev/viniknoxville)  
+
 ## Olá, eu sou o Marcos Vinicius!
 
 <h5>&nbsp;- 💡 Em busca de novos aprendizados | In Search of Learnin<br />
