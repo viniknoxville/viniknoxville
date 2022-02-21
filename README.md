@@ -1,18 +1,20 @@
 ![](https://i.ibb.co/bPNPL7Q/Hello-DEV-1.png)
 
 
-Skills: JAVA / JS/ HTML / CSS
 
-- 🔭 I’m currently working on projetos da faculdade  
-- 🌱 I’m currently learning sobre JAVA, HTML5, CSS e Banco de Dados 
-- 👯 I’m looking to collaborate on projetos em JAVA 
-- 💬 Ask me about qualquer coisa! 
-- 📫 How to reach me: ass.marcosribeiro@gmail.com 
-- 😄 Pronouns: ele/dele 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/java.svg' alt='java' height='40'>](java)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg' alt='javascript' height='40'>](js)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/html5.svg' alt='html5' height='40'>](HTML5)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/css3.svg' alt='css3' height='40'>](css)  
+
+
+- 🔭 No momento, estou trabalhando com projetos da faculdade  
+- 🌱 Estou aprendendo sobre JAVA, HTML5, CSS e Banco de Dados 
+- 👯 Gostaria de colaborar em projetos JAVA 
+- 💬 Pergunte-me sobre qualquer coisa! 
+- 📫 e-mail: ass.marcosribeiro@gmail.com 
+- 😄 Pronomes: ele/dele 
 - ⚡ Fun fact: Sou viciado em Star Wars 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/viniknoxville)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/marcosvsribeiro/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/java.svg' alt='java' height='40'>](java)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg' alt='javascript' height='40'>](js)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/html5.svg' alt='html5' height='40'>](HTML5)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/css3.svg' alt='css3' height='40'>](css)  
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniknoxville)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -22,23 +24,7 @@ Skills: JAVA / JS/ HTML / CSS
 
 ![Profile views](https://gpvc.arturio.dev/viniknoxville)  
 
-## Olá, eu sou o Marcos Vinicius!
 
-<h5>&nbsp;- 💡 Em busca de novos aprendizados | In Search of Learnin<br />
-<br />  - 📚 Cursando Analise e Desenvolvimento de Sistemas<br />
-<br />- 😄 Pronouns: ele/dele | he/him/his<br />
-<br />- ⚡ Fun fact: Tenho uma gata chamada Stella | I have a pet cat named Stella</h5>
-<p>&nbsp;</p>
-
-<div align="center">
-<a href="https://github.com/viniknoxville"> 
-<img src="https://github-readme-stats.vercel.app/api?username=viniknoxville&amp;show_icons=true&amp;theme=yeblu&amp;include_all_commits=true&amp;count_private=true" height="180em" /> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniknoxville&amp;layout=compact&amp;langs_count=7&amp;theme=yeblu" height="180em" /></a></div>
-
-<div align="center">&nbsp;</div>
-<div align="center">&nbsp;</div>
-
-<div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="55" height="55" /></div>
 
 <div align="center">
 <img class="n3VNCb" style="width: 309px; height: 309px; margin: 0px;" src="https://i.pinimg.com/originals/e5/93/ab/e593ab0589d5f1b389e4dfbcce2bce20.gif" alt="Transparent Stuff | Adventure time gif, Cartoon gifs, Adventure time  wallpaper" data-noaft="1" />
