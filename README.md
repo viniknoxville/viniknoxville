@@ -1,13 +1,18 @@
-### Hi there 👋, my name is Marcos
 ![](https://i.ibb.co/bPNPL7Q/Hello-DEV-1.png)
 
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+Skills: JAVA / JS/ HTML / CSS
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently working on projetos da faculdade  
+- 🌱 I’m currently learning sobre JAVA, HTML5, CSS e Banco de Dados 
+- 👯 I’m looking to collaborate on projetos em JAVA 
+- 💬 Ask me about qualquer coisa! 
+- 📫 How to reach me: ass.marcosribeiro@gmail.com 
+- 😄 Pronouns: ele/dele 
+- ⚡ Fun fact: Sou viciado em Star Wars 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/viniknoxville)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/html5.svg' alt='html5' height='40'>](i)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/viniknoxville)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/marcosvsribeiro/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/java.svg' alt='java' height='40'>](java)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg' alt='javascript' height='40'>](js)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/html5.svg' alt='html5' height='40'>](HTML5)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/css3.svg' alt='css3' height='40'>](css)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniknoxville)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -15,7 +20,7 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=viniknoxville)  
 
-![Profile views](https://gpvc.arturio.dev/viniknoxville)    
+![Profile views](https://gpvc.arturio.dev/viniknoxville)  
 
 ## Olá, eu sou o Marcos Vinicius!
 
