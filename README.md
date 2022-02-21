@@ -17,9 +17,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniknoxville&layout=compact&langs_count=7&theme=dracula"/>
 </div>
    
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=viniknoxville&show_icons=true&count_private=true) 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniknoxville)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=viniknoxville&show_icons=true&count_private=true)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniknoxville)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=viniknoxville)  
 
