@@ -14,9 +14,7 @@
 <div align="center">
   <a href="https://github.com/viniknoxville">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniknoxville&show_icons=true&count_private=true"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniknoxville"/>
-   
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=viniknoxville)  
-
+    
 ![Profile views](https://gpvc.arturio.dev/viniknoxville)
     </div>
   
