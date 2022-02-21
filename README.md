@@ -1,7 +1,5 @@
 ![](https://i.ibb.co/bPNPL7Q/Hello-DEV-1.png)
 
-
-
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/java.svg' alt='java' height='40'>](java)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg' alt='javascript' height='40'>](js)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/html5.svg' alt='html5' height='40'>](HTML5)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/css3.svg' alt='css3' height='40'>](css)  
 
 
@@ -13,12 +11,15 @@
 - 😄 Pronomes: ele/dele 
 - ⚡ Fun fact: Sou viciado em Star Wars 
 
-
-
+<div align="center">
+  <a href="https://github.com/viniknoxville">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniknoxville&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniknoxville&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+   
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=viniknoxville&show_icons=true&count_private=true) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniknoxville)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=viniknoxville&show_icons=true&count_private=true)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=viniknoxville)  
 
