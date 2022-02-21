@@ -14,9 +14,7 @@
 <div align="center">
   <a href="https://github.com/viniknoxville">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniknoxville&show_icons=true&count_private=true"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniknoxville"/>
-    
-![Profile views](https://gpvc.arturio.dev/viniknoxville)
-    </div>
+</div>
   
 
 
@@ -33,6 +31,7 @@
 <a href="mailto:ass.marcosribeiro@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" width="95" height="24" /></a></div>
 <div align="center">&nbsp;</div>
 
+  ![Profile views](https://gpvc.arturio.dev/viniknoxville)
 
    
  
