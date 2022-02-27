@@ -27,14 +27,15 @@
 </div>
 <div align="center">&nbsp;</div>
 
-<div align="center">
-<a href="https://www.linkedin.com/in/marcosvsribeiro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" width="95" height="24" /> </a> 
-<a href="https://www.instagram.com/viniknoxville/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" width="95" height="24" /> </a> 
-<a href="https://open.spotify.com/user/12179617072?si=k1glThkqREOUUwSlY_1wKA&amp;utm_source=copy-link&amp;dl_branch=1" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&amp;style=for-the-badge&amp;logo=spotify&amp;logoColor=white" width="95" height="24" /> </a> 
-<a href="mailto:ass.marcosribeiro@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" width="95" height="24" /></a></div>
-<div align="center">&nbsp;</div>
+ <div align="center">
+   
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/marcosvsribeiro/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/viniknoxville/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spotify.svg' alt='spotify' height='40'>](https://open.spotify.com/user/12179617072?si=k1glThkqREOUUwSlY_1wKA&utm_source=copy-link&dl_branch=1&nd=1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](ass.marcosribeiro@gmail.com)  
+   
+  </div>
 
   ![Profile views](https://gpvc.arturio.dev/viniknoxville)
+  
+
 
    
  
