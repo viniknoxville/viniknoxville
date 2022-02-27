@@ -2,6 +2,7 @@
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/eclipseide.svg' alt='eclipseide' height='40'>](eclipse)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/apachenetbeanside.svg' alt='apachenetbeanside' height='40'>](apache_net_beans)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/git.svg' alt='git' height='40'>](git)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/java.svg' alt='java' height='40'>](java)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg' alt='javascript' height='40'>](java_script)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/html5.svg' alt='html5' height='40'>](html5)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/css3.svg' alt='css3' height='40'>](css)
 
+<p>&nbsp;</p>
 
 - 🔭 No momento, estou trabalhando com projetos da faculdade  
 - 🌱 Estou aprendendo sobre JAVA, HTML5, CSS e Banco de Dados 
@@ -10,6 +11,8 @@
 - 📫 e-mail: ass.marcosribeiro@gmail.com 
 - 😄 Pronomes: ele/dele 
 - ⚡ Fun fact: Sou viciado em Star Wars 
+
+<p>&nbsp;</p>
 
 <div align="center">
   <a href="https://github.com/viniknoxville">
