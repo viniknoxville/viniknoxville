@@ -5,7 +5,7 @@
 <p>&nbsp;</p>
 <div>
   
-  <img align="right"  alt="Vinicius-MR-icon" height="280" width="210" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2Fbd%2F37%2F52%2Fbd3752ed6e1e73aa8c2dd10c8bc95ffc.gif&f=1&nofb=1">
+  <img align="right"  alt="Vinicius-MR-icon" height="170" width="110" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2Fbd%2F37%2F52%2Fbd3752ed6e1e73aa8c2dd10c8bc95ffc.gif&f=1&nofb=1">
 
 - 🔭 No momento, estou trabalhando com projetos da faculdade  
 - 🌱 Estou aprendendo sobre JAVA, HTML5, CSS e Banco de Dados 
