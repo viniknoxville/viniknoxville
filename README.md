@@ -4,6 +4,7 @@
 
 <p>&nbsp;</p>
 
+<img align="right" src="https://i.giphy.com/media/LmNwrBhejkK9EFP504/200w.webp" alt="Programmation" width="200" />
 
 - 🔭 No momento, estou trabalhando com projetos da faculdade  
 - 🌱 Estou aprendendo sobre JAVA, HTML5, CSS e Banco de Dados 
