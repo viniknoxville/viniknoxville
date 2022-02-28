@@ -18,14 +18,14 @@
   <a href="https://github.com/viniknoxville">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniknoxville&show_icons=true&count_private=true"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniknoxville"/>
 </div>
-  
 
-
+<p>&nbsp;</p>
 
 <div align="center">
-<img class="n3VNCb" style="width: 309px; height: 309px; margin: 0px;" src="https://i.pinimg.com/originals/e5/93/ab/e593ab0589d5f1b389e4dfbcce2bce20.gif" alt="Transparent Stuff | Adventure time gif, Cartoon gifs, Adventure time  wallpaper" data-noaft="1" />
+<img class="n3VNCb" style="width: 150px; height: 150px; margin: 0px;" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Farticulate-heroes.s3.amazonaws.com%2F4812.clickhere2874qvx.png&f=1&nofb=1" alt="Star Wars gifs" data-noaft="1" />
 </div>
 <div align="center">&nbsp;</div>
+
 
  <div align="center">
    
