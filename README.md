@@ -80,7 +80,8 @@
 <br/>  
 <br/>  
 <br/> 
-<div style="clear: both;"></div> <!-- Isso vai garantir que o badge vá para a linha de baixo -->
+
+<div style="margin-top: 20px;"></div> <!-- Aqui você pode ajustar o valor do margin para garantir o espaçamento -->
   
 <div align="left">
   <img src="https://komarev.com/ghpvc/?username=viniknoxville&&style=flat-square" alt="Visits Badge">
