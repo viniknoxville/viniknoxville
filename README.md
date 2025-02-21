@@ -80,9 +80,14 @@
 <br/>  
 <br/>  
 <br/> 
-
-<div style="margin-top: 20px;"></div> <!-- Aqui você pode ajustar o valor do margin para garantir o espaçamento -->
-  
+<br/>  
+<br/>  
+<br/>
+<br/>  
+<br/>  
+<br/>
+<br/>  
+ 
 <div align="left">
   <img src="https://komarev.com/ghpvc/?username=viniknoxville&&style=flat-square" alt="Visits Badge">
 </div>
