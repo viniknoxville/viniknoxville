@@ -80,10 +80,8 @@
 <br/>  
 <br/>  
 <br/> 
-
-
+<div style="clear: both;"></div> <!-- Isso vai garantir que o badge vá para a linha de baixo -->
+  
 <div align="left">
   <img src="https://komarev.com/ghpvc/?username=viniknoxville&&style=flat-square" alt="Visits Badge">
 </div>
-  
-
