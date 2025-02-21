@@ -1,50 +1,86 @@
 ![](https://i.ibb.co/YTf69yn/Hello-DEV-2.png)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/eclipseide.svg' alt='eclipseide' height='40'>](eclipse)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/apachenetbeanside.svg' alt='apachenetbeanside' height='40'>](apache_net_beans)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/git.svg' alt='git' height='40'>](git)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/java.svg' alt='java' height='40'>](java)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg' alt='javascript' height='40'>](java_script)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/html5.svg' alt='html5' height='40'>](html5)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/css3.svg' alt='css3' height='40'>](css)
-
-<p>&nbsp;</p>
-
-<img align="right" src="https://i.giphy.com/media/LmNwrBhejkK9EFP504/200w.webp" alt="Programmation" width="200" />
-
-- 🔭 No momento, estou trabalhando com projetos da faculdade  
-- 🌱 Estou aprendendo sobre JAVA, HTML5, CSS e Banco de Dados 
-- 👯 Gostaria de colaborar em projetos JAVA 
-- 💬 Pergunte-me sobre qualquer coisa! 
-- 📫 e-mail: ass.marcosribeiro@gmail.com 
-- 😄 Pronomes: ele/dele 
-- ⚡ Fun fact: Sou viciado em Star Wars 
-
-
-<p>&nbsp;</p>
-
 <div align="center">
-  <a href="https://github.com/viniknoxville">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniknoxville&show_icons=true&count_private=true"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniknoxville"/>
-</div>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="center" style="width: 100%" />
+</div>  
 
-<p>&nbsp;</p>
-
-<div align="center">
-<img class="n3VNCb" style="width: 150px; height: 150px; margin: 0px;" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Farticulate-heroes.s3.amazonaws.com%2F4812.clickhere2874qvx.png&f=1&nofb=1" alt="Star Wars gifs" data-noaft="1" />
-</div>
-<div align="center">&nbsp;</div>
-
-
- <div align="center">
-   
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/marcosvsribeiro/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/viniknoxville/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spotify.svg' alt='spotify' height='40'>](https://open.spotify.com/user/12179617072?si=k1glThkqREOUUwSlY_1wKA&utm_source=copy-link&dl_branch=1&nd=1) 
-   
-  </div>
-
-  ![Profile views](https://gpvc.arturio.dev/viniknoxville)
-  
-  
-
-  
-  
-
-  
-
-
-   
  
+### <div align="center">Hi, I'm Marcos, a tech enthusiast eager to learn and grow. 🚀</div>  
+
+<p align="center">
+<a href="https://github.com/viniknoxville">
+<img src="https://img.shields.io/badge/Português-brightgreen" alt="Português">
+  </a>
+
+- 🔭 Looking for opportunities to grow as a developer  
+- 🌱 I’m currently learning Git, GitHub, and Web Development  
+- 💡 Passionate about technology, innovation, and problem-solving  
+- ⚡ Fun fact: I love my Kindle.  
+-   ✉️ Email: ass.marcosribeiro@gmail.com  
+  
+<br/>  
+
+## My Skill Set  
+<table><tr><td valign="top" width="33%">
+
+
+
+### Frontend  
+<div align="center">  
+<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+</div>
+
+</td><td valign="top" width="33%">
+
+
+
+### Backend  
+<div align="center">  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
+</div>
+
+</td><td valign="top" width="33%">
+
+
+
+### Other  
+<div align="center">  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
+<a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" /></a>  
+<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
+</div>
+
+</td></tr></table>  
+
+<br/>  
+
+## Connect with me  
+<a href="https://github.com/viniknoxville" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/marcosvsribeiro" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/viniknoxville" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>  
+  
+<br/>  
+
+## Github Stats  
+<img src="https://github-readme-stats.vercel.app/api?username=viniknoxville&show_icons=true&count_private=true&hide_border=true" align="left" />  
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniknoxville&hide_border=true&layout=compact" align="left" />  
+
+<br/>  
+<br/>  
+<br/>  
+
+![Profile views counter](https://komarev.com/ghpvc/?username=viniknoxville&&style=flat-square)  
+  
+
