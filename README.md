@@ -8,7 +8,7 @@
 ### <div align="center">Hi, I'm Marcos, a tech enthusiast eager to learn and grow. 🚀</div>  
 
 <p align="center">
-<a href="[https://github.com/viniknoxville](https://github.com/viniknoxville/viniknoxville/blob/main/README-port_br.md)">
+<a href="README-port_br.md">
 <img src="https://img.shields.io/badge/Português-brightgreen" alt="Português">
   </a>
 
