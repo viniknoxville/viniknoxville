@@ -79,8 +79,11 @@
 
 <br/>  
 <br/>  
-<br/>  
+<br/> 
 
-![Profile views counter](https://komarev.com/ghpvc/?username=viniknoxville&&style=flat-square)  
+
+<div align="left">
+  <img src="https://komarev.com/ghpvc/?username=viniknoxville&&style=flat-square" alt="Visits Badge">
+</div>
   
 
