@@ -5,7 +5,7 @@
 </div>  
 
  
-### <div align="center">Hi, I'm Marcos, a tech enthusiast eager to learn and grow. 🚀</div>  
+### <div align="center">Exploring new technologies and enjoying every step of this journey 🚀</div>  
 
 <p align="center">
 <a href="README-port_br.md">
